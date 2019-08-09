@@ -13,4 +13,10 @@ This app demonstrates following features:
 
 
 # Note:
-popper dependency is added directly (using npm install popper), not via package.json"
+- popper dependency is added directly (using npm install popper), not via package.json"
+- Use NodeJS version 10 or higher
+
+# How to install:
+- Run following commands from root directory:
+- npm install
+- gulp
