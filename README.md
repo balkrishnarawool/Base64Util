@@ -12,4 +12,5 @@ This app demonstrates following features:
 - how to setup gulp, browser-sync and nodemon to automatically restart express when backend files are changed
 
 
-# Note: popper dependency is added directly (using npm install popper), not via package.json"
+# Note:
+popper dependency is added directly (using npm install popper), not via package.json"
