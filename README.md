@@ -10,3 +10,7 @@ This app demonstrates following features:
     - clean-up
 - how to use browser-sync to do live-reload when frontend files are changed
 - how to setup gulp, browser-sync and nodemon to automatically restart express when backend files are changed
+
+
+# Note:
+popper dependency is added directly (using npm install popper), not via package.json"
