@@ -1,0 +1,20 @@
+{
+  "title": "Base 64 Util",
+  "name": "base64app",
+  "version": "1.0.0",
+  "description": "Utility for encoding/decoding with Base64. ## Note: popper dependency is added directly (using npm install popper), not via package.json",
+  "dependencies": {
+    "express": "^4.17.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^1.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.4.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
