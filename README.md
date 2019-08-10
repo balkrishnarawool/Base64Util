@@ -18,5 +18,7 @@ This app demonstrates following features:
 
 # How to install:
 - Run following commands from root directory:
-- npm install
-- gulp
+```
+npm install
+gulp
+```
