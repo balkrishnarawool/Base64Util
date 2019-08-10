@@ -14,13 +14,13 @@ This app demonstrates following features:
 
 # Note:
 - Use NodeJS version 10 or higher
-Use ```node -v``` to know current NodeJS version.
-If it is higher or equal to 10, you are good.
-If not, then use ```nvm ls``` to get list of currently installed NodeJS versions on your machine.
-If there is no version 10 or higher, download and install one.
-Once installed, use ```nvm use 10``` to use NodeJS version 10.
+  - Use ```node -v``` to know current NodeJS version.
+  - If it is higher or equal to 10, you are good.
+  - If not, then use ```nvm ls``` to get list of currently installed NodeJS versions on your machine.
+  - If there is no version 10 or higher, download and install one.
+  - Once installed, use ```nvm use 10``` to use NodeJS version 10.
 
-# How to install:
+# How to install the app:
 - Run following commands from root directory:
 ```
 npm install
