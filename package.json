@@ -2,7 +2,7 @@
   "title": "Base 64 Util",
   "name": "base64app",
   "version": "1.0.0",
-  "description": "Utility for encoding/decoding with Base64. ## Note: popper dependency is added directly (using npm install popper), not via package.json",
+  "description": "Utility for encoding/decoding with Base64.",
   "dependencies": {
     "express": "^4.17.1",
     "bootstrap": "^4.3.1",
