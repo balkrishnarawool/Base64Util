@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Utility for encoding/decoding with Base64.",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "bootstrap": "^4.3.1",
     "jquery": ">=3.5.0",
     "popper.js": "^1.15.0"
